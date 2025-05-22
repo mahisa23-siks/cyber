@@ -6,6 +6,7 @@ digunakan untuk evaluasi server website anda
 PYTHON<br>
 POWERSHELL<br>
 GIT<br>
+NMAP<> https://nmap.org/download.html#windows
 
 
 Module diperlukan :<br>
