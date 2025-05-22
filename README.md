@@ -4,7 +4,7 @@ digunakan untuk evaluasi server website anda
 PYTHON 
 POWERSHELL
 
-# TERMUX
+# WINDOWS POWERSHELL
 pip install aiohttp<br>
 pip install requests<br>
 pip install scapy<br>
