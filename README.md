@@ -6,6 +6,7 @@ POWERSHELL<br>
 GIT<br>
 
 # WINDOWS POWERSHELL
+Module diperlukan :<br>
 pip install aiohttp<br>
 pip install requests<br>
 pip install scapy<br>
