@@ -1,8 +1,9 @@
 # DDoS Attack By CyberCrossX23
 digunakan untuk evaluasi server website anda
 
-PYTHON 
-POWERSHELL
+PYTHON<br>
+POWERSHELL<br>
+GIT<br>
 
 # WINDOWS POWERSHELL
 pip install aiohttp<br>
