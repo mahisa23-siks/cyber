@@ -65,29 +65,25 @@ proxysite = [
     "https://free-proxy-list.net/",
     "https://www.sslproxies.org/",
     "https://www.proxynova.com/proxy-server-list/",
-    "https://www.proxy-list.download/",
     "https://proxy-daily.com/",
-    "https://proxylist.geonode.com/free-proxy-list",
     "https://proxydb.net/",
     "https://proxyscrape.com/free-proxy-list",
-    "https://www.hide-my-ip.com/proxylist.shtml",
     "https://www.my-proxy.com/free-proxy-list.html",
     "https://www.spys.one/en/free-proxy-list/",
     "https://proxybros.com/free-proxy-list/",
-    "https://openproxy.space/list",
     "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt",
     "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
     "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
     "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt",
 
     # --- Khusus SOCKS5 & Anonim ---
     "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5",
     "https://www.socks-proxy.net/",
     "https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt",
-
+    
     # --- API/Open Scraper-Friendly ---
-    "https://proxyscrape.com/api?request=displayproxies&proxytype=http&timeout=10000&ssl=all&anonymity=all",
     "https://api.openproxylist.xyz/http.txt",
     "https://api.proxyscrape.com/?request=displayproxies&proxytype=http&timeout=10000"
 ]
